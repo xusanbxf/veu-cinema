@@ -452,3 +452,6 @@ padding: 26px 0;
 font-size: 18px;
 line-height: 20px;
 }
+.colection__content{
+    border-radius: 6px;
+}

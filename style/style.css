@@ -296,6 +296,7 @@ margin-bottom: 55px;
     width: 350px;
     height: 193px;
     overflow: hidden;
+    border-radius: 6px;
     background: linear-gradient(270deg, rgba(7, 15, 25, 0.56) 0%, rgba(49, 114, 9, 0.56) 100%);
 }
 .colection__img{
